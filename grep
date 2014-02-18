@@ -1,0 +1,5 @@
+'Grep' allows you to filter content / items
+
+e.g.
+
+ls -la | grep v* # After listing the contnets of the directory 'grep' filters listings by those starting with 'v'
