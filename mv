@@ -1,0 +1,8 @@
+'The 'mv' command allows you move a file into another location. 
+Where another location is not specified, it will rename that file for you.
+
+e.g.
+
+mv NewFile.txt ../  # moves NewFile.txt to the parent folder
+
+mv NewFile.txt UpdatedFile.txt # renames NewFile.txt to UpdatedFile.txt
